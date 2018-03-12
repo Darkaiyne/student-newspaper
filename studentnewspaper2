@@ -1,5 +1,37 @@
-<<<<<<< HEAD
-<teiHeader></teiHeader>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Negroes Aren't Only Depraved Minority</title>
+            <author>
+                <persName>
+                  <forename>D'Arcee</forename>
+                  <surname>Neal</surname>
+                </persName>
+              </author>
+              <respStmt>
+                  <resp>WHAT KINDS OF RESPONSIBILITIES DO YOU WANT TO ACKNOWLEDGE? 
+                  </resp>
+                  <persName>Eva Peskin provided editorial support, ...</persName>
+         </titleStmt>
+         <publicationStmt>
+          <publisher>University of Maryland</publisher>
+           <pubPlace>College Park, MD, USA</pubPlace>
+          </publicationStmt>
+         <sourceDesc>
+           <sourceDesc>
+            <bibl>
+              <title level="a">Negroes Aren't Only Depraved Minority</title>. In
+              <author>Maria Christina T. Wagner</author>, <title>The Diamondback</title>.
+                <publisher>University of Maryland</publisher>
+  <date>December 13, 1968</date>. </bibl>
+</sourceDesc>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
 <text>
   <body>
   <div type=article>
