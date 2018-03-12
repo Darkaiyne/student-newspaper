@@ -1,82 +1,86 @@
-<<<<<<< HEAD
-<teiHeader></teiHeader>
-<text>
-  <body>
-  <div type=article>
-    <head>Negros Aren't Only Depraved Minority</head>
-    <cb break="no"/>
-    <p>I am writing this letter Tag: <ilgmrk> because </ilgmrk> I am <lb n="1" />
-     concerned--deeply concerned. I am not an <emph> “angry young woman.” </emph> I am mostly a sad one. Sad at the divi­sions
-I perceive among my fellow -to?eri­ca ns, <sic>error</sic> but also angry at the pessimists who are attempting to brainwash us <ilgmrk>into </ilgmark> <cb =no/>
-mark]
-    <cb break="no"/>
-Believing <sic>error</sic> <choice> </choice>  that the status quo can only worsen. I am speaking of the ques­tion of American citizenship; of the <ilgmrk>
-classification </ilgmrk> of people into first and second class Americans according to whether they are WASP’s or “other.” </p>
-    <p>I am appalled that in the case of civil rights, instead of administering equality (which means equal rights distributed equally to all) we give more equality
-to some than to others, or at least we <ilgmrk> c’jSrently </ilgmrk> <sic>error<sic> are preoccupied with patting <ilgmrk> frselves </ilgmrk> <sic>error</sic>
-on the back as we complacently ie <sic>error</sic> out justice and equality to one segment of society while ignoring the rest. </p>
-    <p>Some angels of mercy do not <ilgmrk> realize </ilgmrk> <sic>error</sic> while they are “healing” the fester­ing toe of a gangrenous leg, the entire leg
-will soon rot off, along with the toe they are so busily attending to. </p>
-    <p>Why do some Americans attack urgent problems piecemeal? What I mean is why define civil rights as exclusively Negro <ilgmrk> i%hts? </ilgmrk> <sic>error<sic> Why are they doing injustice to all of America’s minorities by ex­ploiting
-Negroes as a placebo for all of America’s minority ills? </p>
-    <p>Are they too blind to realize that persecution of the minorities has <ilgmrk> not </ilgmrk> <sic>error</sic> ceased? Do they think that anti-Semitic discrimination in country clubs is a figment of the imagination? Is prejudice against the American Indian
-just a bad dream? Surely, discrimina­tion against Mexicans in California is just [illegible mark, formatting error, read an] ugly joke someone conjured up. </p>
-    <p>Can't these Americans realize that equality is equality [insert question mark, perhaps phrase "equality is not equity"] [Capital I] it Is neither tyran­ny of the majority
-nor worship of the </p> <cb break="no"/>
-minority, and still less, worship of one minority over another. We are all of us Americans, whether naturalized or born Americans, hence, we are
-all of us brothers. How can they separate us brothers by ignoring some of us? Peo­ple are still being called niggers. But let this not overshadow the fact that peo­ple are
-still being called chinks, japs, polacks, spies and dagos. </p>
-    <p>And why can’t my fellow whites rise above color.[replace with question mark] Don’t you fools realize
-that even among whites we have various shades of white? Be proud not because of a meaningless skin pigmentation. [change to comma] Be proud because you are an
-American. </p>
-    <p>Forgive. <ital> Yes, forgive. </ital> <choice> </choice> Imagine how useless it would be if the Christians of today hated Italians because Christians of the past were thrown
-to the lions in the coliseum. How useless and how frighteningly analogous it is to the racial situation today. Refusing to forgive and being chained to the past
-strangles progress. </p>
-    <p>I’m very glad that educational institu­tions are establishing black curricula, but Negroes should not view black his­tory as a thing which make [change
-to makes] them different from white [change to whites]. It should be viewed as illus­trating how the black American helped shape America, just as he is now so
-instrumental in shaping America into her true potential of becoming a true melting pot of love and equality. </p>
-    <p>If only all Americans could join hands, this is not an impossible dream, as opposed to the cryptic fore­bodings of the harbingers of pessimism. </p>
-    <p>As for Sterling Tucker’s remark that Negroes should be given more and better
-    <cb break="no"/> rights, that temporary prejudice in favor of the Negro is justified, [insert but] I again sadly shake my head at this. One evil does not justify another. This
-country has no room for extremists. No room for prejudice of any kind. This country needs equality. </p>
-    <p>We need to follow the beautiful golden mean of Aristotle,
-for what tragedies and bloodbaths extremism has led to. How many bitter, blood-soaked mem­ories it has left in its wake? How many shattered lives? Remember Auschwitz.
-Remember Jordan, now in this present day and age. As the Negro trainer of Negro Olympic gold medalist boxer, George Forman, said following Forman’s win: “We don’t
-want no power, just United States power!” </p>
-    <p>These are beautiful words. Please, please make them materialize! </p>
-    <p>Christina Maria T. Wagner</name></p>
-    <p>Junior</signifier></p>
-=======
-I am writing this letter because [illegible mark] I am concerned--deeply concerned. I am not an “angry young woman.” I am mostly a sad one. Sad at the divi­sions
-I perceive among my fellow -to?eri­ca ns, [formatting error, read Americans] but also angry at the pessimists who are attempting to brainwash us into [illegible
-mark] Relieving [formatting error, read believing] that the status quo can only worsen. I am speaking of the ques­tion of American citizenship; of the
-classification [illegible mark] of people into first and second class Americans according to whether they are WASP’s or “other.” I am appalled that in the case of
-civil rights, instead of administering equality (which means equal rights distributed equally to all) we give more equality
-to some than to others, or at least we c’jSrently [illegible mark, formatting error, read currently] are preoccupied with patting frselves [illegible mark, formatting
-error, read ourselves] on the back as we complacently ie [formatting error, read dole] out justice and equality to one segment of society while ignoring the rest.
+<?xml version="1.0" encoding="UTF-8"?>
 
-Some angels of mercy do not realize [illegible mark, formatting error, read that] while they are “healing” the fester­ing toe of a gangrenous leg, the entire leg
-will soon rot off, along with the toe they are so busily attending to. Why do some Americans attack urgent problems piecemeal? What I mean is why define civil
-rights as exclusively Negro i%hts? [illegible mark, formatting error, read rights] Why are they doing injustice to all of America’s minorities by ex­ploiting
-Negroes as a placebo for all of America’s minority ills? Are they too blind to realize that persecution of the minorities has not [illegible mark, formatting
-error, read yet] ceased? Do they think that anti-Semitic discrimination in country clubs is a figment of the imagination? Is prejudice against the American Indian
-just a bad dream? Surely, discrimina­tion against Mexicans in California is just [illegible mark, formatting error, read an] ugly joke someone conjured up. Can't
-these Americans realize that equality is equality [insert question mark, perhaps phrase "equality is not equity"] [Capital I] it Is neither tyran­ny of the majority
-nor worship of the minority, and still less, worship of one minority over another. We are all of us Americans, whether naturalized or born Americans, hence, we are
-all of us brothers. How can they separate us brothers by ignoring some of us? Peo­ple are still being called niggers. But let this not overshadow the fact that peo­ple are
-still being called chinks, japs, polacks, spies and dagos. And why can’t my fellow whites rise above color.[replace with question mark] Don’t you fools realize
-that even among whites we have various shades of white? Be proud not because of a meaningless skin pigmentation. [change to comma] Be proud because you are an
-American. Forgive. [Italicize] Yes, forgive. Imagine how useless it would be if the Christians of today hated Italians because Christians of the past were thrown
-to the lions in the coliseum. How useless and how frighteningly analogous it is to the racial situation today. Refusing to forgive and being chained to the past
-strangles progress. I’m very glad that educational institu­tions are establishing black curricula, but Negroes should not view black his­tory as a thing which make [change
-to makes] them different from white [change to whites]. It should be viewed as illus­trating how the black American helped shape America, just as he is now so
-instrumental in shaping America into her true potential of becoming a true melting pot of love and equality. If only all Americans could join hands, this is
-not an impossible dream, as opposed to the cryptic fore­bodings of the harbingers of pessimism. As for Sterling Tucker’s remark that Negroes should be given more and better
-rights, that temporary prejudice in favor of the Negro is justified, [insert but] I again sadly shake my head at this. One evil does not justify another. This
-country has no room for extremists. No room for prejudice of any kind. This country needs equality. We need to follow the beautiful golden mean of Aristotle,
-for what tragedies and bloodbaths extremism has led to. How many bitter, blood-soaked mem­ories it has left in its wake? How many shattered lives? Remember Auschwitz.
-Remember Jordan, now in this present day and age. As the Negro trainer of Negro Olympic gold medalist boxer, George Forman, said following Forman’s win: “We don’t
-want no power, just United States power!” These are beautiful words. Please, please make them materialize!
-Christina Maria T. Wagner
-Junior
->>>>>>> b475472871f622279483975b8a176a701a204290
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Negros Aren't Only Depraved Minority</title>
+
+         </titleStmt>
+
+         <publicationStmt>
+
+            <p>The Diamondback Newspaper, December 12, 1968</p>
+
+         </publicationStmt>
+
+         <sourceDesc>
+
+            <p>Information  about the source</p>
+
+         </sourceDesc>
+
+      </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+         <div>
+
+           <p>I am writing this letter Tag: <unclear reason="ink blot"> because </unclear> I am <lb n="1" />
+            concerned--deeply concerned. I am not an <emph> “angry young woman.” </emph> I am mostly a sad one. Sad at the divi­sions
+       I perceive among my fellow -to?eri­ca ns, <sic>error</sic> but also angry at the pessimists who are attempting to brainwash us <unclear>into </unclear> <cb n= "1" />
+       mark]
+           <cb break="no" />Believing <sic>error</sic> that the status quo can only worsen. I am speaking of the ques­tion of American citizenship; of the <unclear>
+       classification </unclear> of people into first and second class Americans according to whether they are WASP’s or “other.” </p>
+           <p>I am appalled that in the case of civil rights, instead of administering equality (which means equal rights distributed equally to all) we give more equality
+       to some than to others, or at least we <unclear> c’jSrently </unclear> <sic>error<sic> are preoccupied with patting <unclear> frselves </unclear> <sic>error</sic>
+       on the back as we complacently ie <sic>error</sic> out justice and equality to one segment of society while ignoring the rest. </p>
+           <p>Some angels of mercy do not <unclear> realize </unclear> <sic>error</sic> while they are “healing” the fester­ing toe of a gangrenous leg, the entire leg
+       will soon rot off, along with the toe they are so busily attending to. </p>
+           <p>Why do some Americans attack urgent problems piecemeal? What I mean is why define civil rights as exclusively Negro <unclear> i%hts? </unclea> <sic>error<sic> Why are they doing injustice to all of America’s minorities by ex­ploiting
+       Negroes as a placebo for all of America’s minority ills? </p>
+           <p>Are they too blind to realize that persecution of the minorities has <unclear> not </unclear> <sic>error</sic> ceased? Do they think that anti-Semitic discrimination in country clubs is a figment of the imagination? Is prejudice against the American Indian
+       just a bad dream? Surely, discrimina­tion against Mexicans in California is <unclear> just </unclear> <sic>error</sic>  an ugly joke someone conjured up. </p>
+           <p>Can't these Americans realize that equality is <add>not</add> <alt>equity</alt> <add>?</add> <alt>It</alt> is neither tyran­ny of the majority
+       nor worship of the </p> <cb break="no"/>
+       minority, and still less, worship of one minority over another. We are all of us Americans, whether naturalized or born Americans, hence, we are
+       all of us brothers. How can they separate us brothers by ignoring some of us? Peo­ple are still being called niggers. But let this not overshadow the fact that peo­ple are
+       still being called chinks, japs, polacks, spies and dagos. </p>
+           <p>And why can’t my fellow whites rise above color <alt>?</alt> eDon’t you fools realize
+       that even among whites we have various shades of white? Be proud not because of a meaningless skin pigmentation <add>,</add> Be proud because you are an
+       American. </p>
+           <p>Forgive. <hi rend="italic"> Yes, forgive.</hi> <choice> </choice> Imagine how useless it would be if the Christians of today hated Italians because Christians of the past were thrown
+       to the lions in the coliseum. How useless and how frighteningly analogous it is to the racial situation today. Refusing to forgive and being chained to the past
+       strangles progress. </p>
+           <p>I’m very glad that educational institu­tions are establishing black curricula, but Negroes should not view black his­tory as a thing which <alt>makes</alt> them different from <alt>whites</alt>.
+                                                                                                   It should be viewed as illus­trating how the black American helped shape America, just as he is now so
+       instrumental in shaping America into her true potential of becoming a true melting pot of love and equality. </p>
+           <p>If only all Americans could join hands, this is not an impossible dream, as opposed to the cryptic fore­bodings of the harbingers of pessimism. </p>
+           <p>As for Sterling Tucker’s remark that Negroes should be given more and better
+           <cb break="no"/> rights, that temporary prejudice in favor of the Negro is justified, <add>but</add> I again sadly shake my head at this. One evil does not justify another. This
+       country has no room for extremists. No room for prejudice of any kind. This country needs equality. </p>
+           <p>We need to follow the beautiful golden mean of Aristotle,
+       for what tragedies and bloodbaths extremism has led to. How many bitter, blood-soaked mem­ories it has left in its wake? How many shattered lives? Remember Auschwitz.
+       Remember Jordan, now in this present day and age. As the Negro trainer of Negro Olympic gold medalist boxer, George Forman, said following Forman’s win: <quote>“We don’t
+       want no power, just United States power!”</quote> </p>
+           <p>These are beautiful words. Please, please make them materialize! </p>
+           <p><name type="person">Christina Maria T. Wagner</name></p>
+           <p>Junior<name type="signifer"></p></div>
+
+      </body>
+
+  </text>
+
+</TEI>
