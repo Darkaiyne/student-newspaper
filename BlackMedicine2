@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Blacks Left Out of Medical Picture</title>
+              <author>
+                <persName>
+                  <forename1> Charles
+                  <forename2> Jeffery
+                  <surname1> Sneiderman
+                  <surname2> Blum
+                </persName>
+              </author>
+            <respStmt>
+               <resp> This is an attempt to textually encode a document about black medical doctors during the Civil Rights era
+               </resp>
+              <persName> D'Arcee Neal </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published in Diamondback Student Newspaper September 19th, 1968 </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Accessed from the University of Maryland online digital archive</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+          <p>
+            The serious shortage of physicians and dentists this nation <sic>laces</sic> is a fact ac­
+            knowledged by federal experts and public alike. However, one of the least known
+            aspects of this problem is the appalling shortage of black physicians and dentists.
+            Among white <choice> <original = A m e r i c a n s> Americans </choice>, one out of every 670 is a physician but among black </cb>
+          </p>
+          <p>
+            Americans, only one in 5,000 practices medicine. Whereas there is one dentist for
+            every 1,750 Americans there is only one black dentist for every 10,000 black Americans.
+            The crux of the problem is that there </cb>
+          </p>
+          <p>
+            are far too few black college students who enter medical and dental schools. There appear
+            to be four principal <sic>rea­ sons</sic> that these schools are not attract­ing a sufficient number of qualified Negro
+            applicants. </p>
+            <p>The first reason is that among Negro college students, many lack the life-long <choice> <original = a c a d e m i c>
+            academic </choice> preparation necessary to pursue the highly demanding and com­petitive pre-dental and pre-medical cur­
+            ricula. </p>
+            <p> Secondly, a lack of communication exists between medical and dental schools and black
+            undergraduates, resulting in a belief among the latter that racial origin is a serious deterrent to a
+            career in medicine or dentistry. </p>
+            <p> The third reason is that many black students feel the cost of dental or med­ical education would be prohibitive. </p>
+            <p> The fourth is that many black students are unaware of the opportunities which
+            would be opened to them as physicians and dentists. </p>
+            <p> We feel that these four reasons should
+            not deter any black student on this cam­pus from the attainment of worthwhile careers in dentistry or medicine. </p>
+            <p> For the black student who finds his background inadequate in any subject, he can readily obtain tutoring assistance by </p> </cb>
+            <p> <quote> The various clinical colleges and academies, like the American College
+            of Surgeons and the American Col­lege of Physicians have practically eliminated their racial bars so that Negro physicians are admitted
+            Just as others, as soon as properly qualified and sponsored. </p>
+            <p> Similarly, the <choice> <original = v a r i o u s> various </choice> specialty boards certify Negro physicians as
+            specialists without <sic> restrict!cm </sic> when they have met the respective training requirements and passed the examin­ations. </cb>
+          </p>
+          <p>
+            For the black student who needs finan­cial assistance, there are numerous <choice> <original = a w a r d s> awards </choice> available from professional schools, medical societies, Federal and
+            state governments, and various other sources. </p>
+          <p> <choice> <original = A g a i n> Again </choice> quoting from Ebony, "Today there are more medical school openings available to Negro students than
+            there can be found qualified applicants to fill. <emph> *For example, Harvard Medical School plans to provide at least 15 scholarships per class for disadvantaged
+            students. </emph> For the black student, a career in den­tistry or medicine offers the opportunity for a constructive role in attaining social, economic, and political
+            equality in any community. President Johnson proclaimed to mem­bers of the National Medical Associa­tion in a recent address that Negro professional men
+            must be their <emph> "broth­ers' keepers* </emph> and <quote>"...must provide the leadership, the brains and courage." </quote> The Pre-Dental and Pre-Medical so­cieties strongly urge any
+            black students interested in these professions to in­vestigate our programs.
+            <persName> Charles Sneiderman </persName>
+            <persName> Jeffery Blum </persName>
+            <FieldName> Pre-Medical societies and Pre-Dental </FieldName>
+          </p>
+        </div>
+      </body>
+  </text>
+</TEI>
